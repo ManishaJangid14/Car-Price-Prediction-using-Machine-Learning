@@ -21,12 +21,12 @@ The project follows the typical data science workflow with the following steps:
 - Plot histograms, bar charts, scatter plots, and box plots to understand data distributions and trends.
 - Use correlation heatmaps to examine relationships between numerical features.
 - Visualize price distributions across car brands, models, and other categorical variables to identify patterns.
-- 
+  
 **3. Data Preprocessing**  
 - Encoding categorical variables to convert them into numerical features.
 - Feature scaling (normalization or standardization) for numerical features such as mileage, engine capacity, etc.
 - Feature selection techniques to identify the most influential variables for price prediction.
-- 
+  
 **4. Model Development**  
 - Split the data into training and test sets for model evaluation.  
 - Develop regression models such as:    
