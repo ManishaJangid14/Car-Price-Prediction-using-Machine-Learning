@@ -36,15 +36,15 @@ Decision Tree Regression: For non-linear relationships.
 Random Forest Regression: For ensemble learning and feature importance.
 
 **5. Model Evaluation**  
-Use cross-validation to tune model hyperparameters and avoid overfitting.  
-Evaluate models using metrics such as:  
+- Use cross-validation to tune model hyperparameters and avoid overfitting.  
+- Evaluate models using metrics such as:  
 R² (Coefficient of Determination): To explain variance.  
 Mean Squared Error (MSE) and Root Mean Squared Error (RMSE): To penalize larger errors.  
-Compare different models and select the best-performing one. 
+- Compare different models and select the best-performing one. 
 
 **6. Model Optimization**  
-Perform hyperparameter tuning using GridSearchCV or RandomizedSearchCV.  
-Improve the model by tuning learning rate, tree depth, regularization terms, etc.  
+- Perform hyperparameter tuning using GridSearchCV or RandomizedSearchCV.  
+- Improve the model by tuning learning rate, tree depth, regularization terms, etc.  
   
 Test the model on unseen data to assess its generalization performance.  
 
