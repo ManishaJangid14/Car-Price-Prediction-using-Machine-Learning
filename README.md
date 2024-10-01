@@ -1,5 +1,5 @@
-### Car-Price-Prediction-using-Machine-Learning  
-#### Overview  
+## Car-Price-Prediction-using-Machine-Learning  
+### Overview  
 The Cars Price Prediction project involves predicting the price of used cars based on various car specifications using statistical and machine learning techniques. By analyzing historical data of cars, we aim to build an effective model that can predict car prices based on key features given in the data.   
 ### Objective  
 The goal of this project is to:    
@@ -47,4 +47,13 @@ Perform hyperparameter tuning using GridSearchCV or RandomizedSearchCV.
 Improve the model by tuning learning rate, tree depth, regularization terms, etc.  
   
 Test the model on unseen data to assess its generalization performance.  
+
+### Technologies Used  
+- Programming Language: Python
+- Libraries:  
+Data Handling: pandas, numpy  
+Data Visualization: matplotlib, seaborn  
+Machine Learning: scikit-learn, xgboost  
+Hyperparameter Tuning: GridSearchCV, RandomizedSearchCV  
+IDE/Platform: Jupyter Notebook  
   
